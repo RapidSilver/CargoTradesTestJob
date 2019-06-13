@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{B76EB161-11E8-4E23-B90E-CBFA06D8C49B}|Default">
+  <MonoDevelop.Ide.ItemProperties.CargaTrades.TestJob.Mobile.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.Light.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CargaTrades.TestJob.Mobile/MainPage.xaml.cs">
+    <Files>
+      <File FileName="CargaTrades.TestJob.Mobile/MainPage.xaml.cs" Line="9" Column="23" />
+      <File FileName="CargoTrades.TestJob.Api/Properties/launchSettings.json" Line="10" Column="50" />
+      <File FileName="CargoTrades.TestJob.Api/Controllers/RecordsController.cs" Line="48" Column="37" />
+      <File FileName="CargaTrades.TestJob.Mobile/Data/Record.cs" Line="9" Column="18" />
+      <File FileName="CargoTrades.TestJob.Api/Data/Record.cs" Line="8" Column="18" />
+      <File FileName="CargoTrades.TestJob.Api/Program.cs" Line="25" Column="1" />
+      <File FileName="CargoTrades.TestJob.Api/Startup.cs" Line="34" Column="34" />
+      <File FileName="CargaTrades.TestJob.Mobile/MainPage.xaml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CargoTrades.TestJob" expanded="True">
+            <Node name="CargaTrades.TestJob.Mobile" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="CargaTrades.TestJob.Mobile.Android" selected="True" />
+            <Node name="CargaTrades.TestJob.Mobile.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CargoTrades.TestJob.Api PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
